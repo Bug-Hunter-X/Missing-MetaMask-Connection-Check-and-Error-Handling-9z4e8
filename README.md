@@ -1,0 +1,1 @@
+This repository demonstrates a common error in DApps: insufficient error handling when interacting with user wallets like MetaMask. The `bug.js` file shows the flawed code, while `bugSolution.js` provides an improved version with robust error handling and user feedback.
